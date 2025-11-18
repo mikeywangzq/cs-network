@@ -1,0 +1,14 @@
+# 编译产物
+*.o
+tcp_analyzer
+
+# 编辑器临时文件
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
