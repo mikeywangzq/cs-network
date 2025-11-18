@@ -1,0 +1,25 @@
+# 编译生成的可执行文件
+SMTP/smtp_client
+*.exe
+*.out
+
+# 编译生成的目标文件
+*.o
+*.obj
+
+# 编译生成的库文件
+*.a
+*.so
+*.lib
+*.dll
+
+# IDE 和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
