@@ -1,0 +1,27 @@
+# 编译产物
+server
+client
+*.o
+*.out
+*.exe
+
+# 调试文件
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# 临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 编辑器配置
+.vscode/
+.idea/
+*.sublime-*
+
+# 核心转储
+core
+core.*

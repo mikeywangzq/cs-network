@@ -1,0 +1,1 @@
+这是一个测试文件。\n用于测试 FTP 文件传输功能。\nThis is a test file for FTP transfer.
