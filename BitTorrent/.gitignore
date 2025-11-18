@@ -1,0 +1,26 @@
+# 编译产物
+tracker
+peer
+*.o
+*.out
+
+# 测试文件
+test_p2p/
+*.dat
+*.log
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# IDE 文件
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS
+.DS_Store
+
+# 备份文件
+*.bak
